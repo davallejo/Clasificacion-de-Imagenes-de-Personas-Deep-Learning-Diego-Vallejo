@@ -1,0 +1,1 @@
+Debido a las crisis de salud de los últimos años, las personas están utilizando frecuentemente máscaras para protegerse o proteger a otros. Por ende, como primer paso para modernizar el sistema de seguridad de su compañía se le ha encargado la tarea de implementar un sistema que identifique si una persona porta una máscara o no.
